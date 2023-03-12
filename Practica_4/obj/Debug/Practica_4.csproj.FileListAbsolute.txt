@@ -1,0 +1,14 @@
+c:\users\raffa\documents\visual studio 2015\Projects\Practica_4\Practica_4\bin\Debug\Practica_4.exe.config
+c:\users\raffa\documents\visual studio 2015\Projects\Practica_4\Practica_4\bin\Debug\Practica_4.exe
+c:\users\raffa\documents\visual studio 2015\Projects\Practica_4\Practica_4\bin\Debug\Practica_4.pdb
+c:\users\raffa\documents\visual studio 2015\Projects\Practica_4\Practica_4\obj\Debug\Practica_4.csprojResolveAssemblyReference.cache
+c:\users\raffa\documents\visual studio 2015\Projects\Practica_4\Practica_4\obj\Debug\Practica_4.exe
+c:\users\raffa\documents\visual studio 2015\Projects\Practica_4\Practica_4\obj\Debug\Practica_4.pdb
+C:\Users\Raffa\Documents\Orientada a Objetos\Practicas Objetos\Practica_4\Practica_4\bin\Debug\Practica_4.exe.config
+C:\Users\Raffa\Documents\Orientada a Objetos\Practicas Objetos\Practica_4\Practica_4\bin\Debug\Practica_4.exe
+C:\Users\Raffa\Documents\Orientada a Objetos\Practicas Objetos\Practica_4\Practica_4\bin\Debug\Practica_4.pdb
+C:\Users\Raffa\Documents\Orientada a Objetos\Practicas Objetos\Practica_4\Practica_4\obj\Debug\Practica_4.csproj.AssemblyReference.cache
+C:\Users\Raffa\Documents\Orientada a Objetos\Practicas Objetos\Practica_4\Practica_4\obj\Debug\Practica_4.csproj.SuggestedBindingRedirects.cache
+C:\Users\Raffa\Documents\Orientada a Objetos\Practicas Objetos\Practica_4\Practica_4\obj\Debug\Practica_4.csproj.CoreCompileInputs.cache
+C:\Users\Raffa\Documents\Orientada a Objetos\Practicas Objetos\Practica_4\Practica_4\obj\Debug\Practica_4.exe
+C:\Users\Raffa\Documents\Orientada a Objetos\Practicas Objetos\Practica_4\Practica_4\obj\Debug\Practica_4.pdb
